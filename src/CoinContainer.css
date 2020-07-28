@@ -1,0 +1,11 @@
+.CoinContainer{
+    align-content: center;
+}
+
+.CoinContainer button{
+    margin-top: 20px;
+    background-color: gray;
+    border-radius: 5px;
+    font-size: 1em;
+    color: wheat;
+}
