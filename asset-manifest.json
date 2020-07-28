@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/karakrus/static/css/main.004d9708.chunk.css",
+    "main.js": "/karakrus/static/js/main.22d45c05.chunk.js",
+    "main.js.map": "/karakrus/static/js/main.22d45c05.chunk.js.map",
+    "runtime-main.js": "/karakrus/static/js/runtime-main.0baf226c.js",
+    "runtime-main.js.map": "/karakrus/static/js/runtime-main.0baf226c.js.map",
+    "static/js/2.e9244381.chunk.js": "/karakrus/static/js/2.e9244381.chunk.js",
+    "static/js/2.e9244381.chunk.js.map": "/karakrus/static/js/2.e9244381.chunk.js.map",
+    "index.html": "/karakrus/index.html",
+    "precache-manifest.3d39c832302473a8444994e2c781ae08.js": "/karakrus/precache-manifest.3d39c832302473a8444994e2c781ae08.js",
+    "service-worker.js": "/karakrus/service-worker.js",
+    "static/css/main.004d9708.chunk.css.map": "/karakrus/static/css/main.004d9708.chunk.css.map",
+    "static/js/2.e9244381.chunk.js.LICENSE.txt": "/karakrus/static/js/2.e9244381.chunk.js.LICENSE.txt",
+    "static/media/head.png": "/karakrus/static/media/head.87cfaa04.png",
+    "static/media/tail.png": "/karakrus/static/media/tail.70f8c7f3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0baf226c.js",
+    "static/js/2.e9244381.chunk.js",
+    "static/css/main.004d9708.chunk.css",
+    "static/js/main.22d45c05.chunk.js"
+  ]
+}
